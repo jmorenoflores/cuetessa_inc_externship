@@ -9,7 +9,7 @@ This project aimed to develop a Machine Learning Model that predicts the valence
 The ultimate goal of the project is to enhance the music listening experience for Cuetessa, Inc's users by accurately assigning songs to appropriate playlists based on their valence scores.
 
 ## Table of contents:
-The following table of contents the structure used in this project:
+The following table of contents summarizes the structure used in this project:
 ```
 1. Project for Cuetessa, INC: Predicting Valence Score of Songs
 1.1 Data Preprocessing
