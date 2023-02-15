@@ -4,6 +4,9 @@
 
 This project aimed to develop a Machine Learning Model that predicts the valence score of songs utilizing features from the songs' spectograms, such as tempo (beat per minute value only), spectral centroids, spectral rolloffs, spectral contrast - 7 bands, mel frequency coefficients - 20 coefficients, zero crossing rate, chroma energy normalized statistics - 12 chromas, root mean squared error, spectral influx (mean and variance of Numpy array only), and onset rate. Similarly, we also acquired meta data from the Spotify for Developers API and used them as features including: danceability, energy, key, loudness, mode, speechiness, acousticness, instrumentalness, liveness, duration_ms, time_signature. 
 
+## Business value:
+
+The ultimate goal of the project is to enhance the music listening experience for Cuetessa, Inc's users by accurately assigning songs to appropriate playlists based on their valence scores.
 
 
 The following table of contents the structure used in this project:
@@ -77,9 +80,6 @@ The following table of contents the structure used in this project:
 1.5 Conclusion
 
 ```
-## Business value:
-
-The ultimate goal of the project is to enhance the music listening experience for Cuetessa, Inc's users by accurately assigning songs to appropriate playlists based on their valence scores.
 
 ## Tools and concepts used in project:
 - pandas
